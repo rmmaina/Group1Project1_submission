@@ -177,7 +177,7 @@ bookhub/
 
 ## Contributors
 
-Software Engineering Bootcamp Team
+Moringa Software Engineering Bootcamp Team - Joseph Ndemo, Rotich Ian, Mark Warunge, Robert Maina and Gregory Kipchumba
 
 ---
 
