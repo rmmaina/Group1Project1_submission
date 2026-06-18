@@ -280,9 +280,9 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 ## Developer
 
-1.Joseph Ndemo
-2.Mark Warunge
-3.Gregory Kipchumba
+1.Robert Maina
+2.Joseph Ndemo
+3.Mark Warunge
 4.Abdirahman Abdi Salah
-5.Robert Maina
+5.Gregory Kipchumba
 6.Rotich Ian
