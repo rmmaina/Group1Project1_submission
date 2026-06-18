@@ -19,6 +19,9 @@ OpenLibrary Hub was developed as a Software Engineering Capstone Project with a 
 The application integrates with the Open Library REST API to provide access to one of the world's largest collections of bibliographic records.
 
 ---
+## Deployed Application link
+
+https://openlibrary-one.vercel.app/
 
 ## Application Preview
 
